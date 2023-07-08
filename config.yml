@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: "https://fastidious-moxie-2100d3.netlify.app"
 languageCode: 'en-us'
 title: 'Naadiyaar'
 theme: PaperMod
