@@ -1,4 +1,4 @@
-baseURL: "https://fastidious-moxie-2100d3.netlify.app"
+baseURL: "https://naadiyaar.com/"
 languageCode: 'en-us'
 title: 'Naadiyaar'
 theme: PaperMod
@@ -21,7 +21,7 @@ params:
       - name: mastodon
         url: https://fosstodon.org/@naadiyaar
       - name: rss
-        url: http://localhost:1313/index.xml
+        url: http://naadiyaar.com/index.xml
 
 menu:
   main:
