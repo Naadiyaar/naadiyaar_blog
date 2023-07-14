@@ -16,8 +16,10 @@ params:
     socialIcons:
       - name: email
         url: mailto:naadiyaar@protonmail.com
-      - name: matrix
-        url: https://matrix.to/#/@naadiyaar:matrix.im
+      - name: xmpp
+        url: xmpp:naadiyaar@conversations.im
+      # - name: matrix
+      #   url: https://matrix.to/#/@naadiyaar:matrix.im
       - name: mastodon
         url: https://fosstodon.org/@naadiyaar
       - name: rss
