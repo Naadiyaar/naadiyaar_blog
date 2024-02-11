@@ -4,7 +4,7 @@ date: 2023-10-06
 draft: false
 ShowToc: true
 ---
-### Intro
+## Intro
 Telegram is not just a messenger or even a social media site; it is more like a massive bookmark manager where every group, 
 channel or personal chat you have with fellows is just a bookmark on a special topic. Sometimes you're the audience for these 
 bookmarks, and sometimes you're the one in charge. There is also another type of accounts/bookmarks 
