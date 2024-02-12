@@ -2,6 +2,7 @@ baseURL: "https://naadiyaar.com/"
 languageCode: 'en-us'
 title: 'Naadiyaar'
 theme: PaperMod
+paginate: 5
 
 params:
     homeInfoParams:
@@ -24,6 +25,8 @@ params:
         url: https://fosstodon.org/@naadiyaar
       - name: rss
         url: http://naadiyaar.com/index.xml
+
+    ShowCodeCopyButtons: true
 
 menu:
   main:
