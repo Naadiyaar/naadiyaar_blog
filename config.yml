@@ -23,6 +23,8 @@ params:
         url: https://matrix.to/#/@naadiyaar:fedora.im
       - name: mastodon
         url: https://fosstodon.org/@naadiyaar
+      - name: codeberg
+        url: https://codeberg.org/Naadiyaar
       - name: rss
         url: http://naadiyaar.com/index.xml
 
