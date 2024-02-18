@@ -1,6 +1,6 @@
 ---
 title: "Why math still exists"
-date: 2024-02-12
+date: 2024-02-18
 draft: false
 ShowToc: true
 ---
