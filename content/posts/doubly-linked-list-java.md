@@ -272,3 +272,6 @@ This article made possible by getting insights from other resources, thanks to:
 - [Linked Lists](https://www.youtube.com/watch?v=_jQhALI4ujg) video by Computerphile.
 - [Introduction to Doubly Linked Lists in Java](https://www.geeksforgeeks.org/introduction-to-doubly-linked-lists-in-java/) from GeeksforGeeks.
 - [Doubly Linked List in Java](https://dzone.com/articles/doubly-linked-list-in-java) from Dzone.
+
+
+**Thanks for reading; please let me know what do you think; good luck.**
