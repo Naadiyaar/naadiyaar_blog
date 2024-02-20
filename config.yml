@@ -2,17 +2,19 @@ baseURL: "https://naadiyaar.com/"
 languageCode: 'en-us'
 title: 'Naadiyaar'
 theme: PaperMod
-paginate: 5
+paginate: 25
 
 params:
     homeInfoParams:
-        Title: Hello Friend...
+        Title: Welcome my cyber sanctuary
         Content: >
-          I find great delight in expressing my thoughts through writing
+          I find great delight in expressing my thoughts through writing.
 
-          - In the grand tapestry of life, we all stumble and falter, including me and the posts I share
+          - In the grand tapestry of life, we all stumble and falter, including me and the posts I share.
 
-          - Journaling my technical life is what I'm doing here, hope you enjoy :)
+          - Journaling my technical life and expanding simple ideas is what I'm doing here.
+          
+          - **hope you enjoy :)**
 
     socialIcons:
       - name: email
