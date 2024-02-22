@@ -47,7 +47,7 @@ I post everyday on [Mastodon](https://joinmastodon.org/)
 
 Also I'm participating in an online meeting a few times a week with another person and speak in English (for learning purposes) and even though she is a very good listener, I'm very amazed how I can express myself and my ideas so freely. And say things that I haven't so far in my life; even more importantly I don't digest phrases I used afterward.
 
-### Final words?
+### Final words
 We are living in a harsh society and it's not people fault, it's nature's.
 This world feeds from our mistakes. Some mistakes are so dangerous can end up in falling from a cliff; or much minor like putting words in a wrong order in your personal blog.
 What is important is to reduce how much we censor ourselves. Expressing an unpopular idea isn't necessarily bad and must happen time to time but your brain can't handle this.
