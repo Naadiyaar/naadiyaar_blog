@@ -1,7 +1,7 @@
 ---
 author: "Naadiyaar"
 title: "Holding a decentrlized online conference"
-date: 2023-12-08
+date: 2023-12-06
 draft: false
 ShowToc: true
 ---

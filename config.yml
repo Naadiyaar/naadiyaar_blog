@@ -6,7 +6,7 @@ paginate: 25
 
 params:
     homeInfoParams:
-        Title: Welcome my cyber sanctuary
+        Title: Welcome to my cyber sanctuary
         Content: >
           I find great delight in expressing my thoughts through writing.
 
