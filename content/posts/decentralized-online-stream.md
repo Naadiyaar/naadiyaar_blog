@@ -1,4 +1,5 @@
 ---
+author: "Naadiyaar"
 title: "Holding a decentrlized online conference"
 date: 2023-12-08
 draft: false

@@ -1,4 +1,5 @@
 ---
+author: "Naadiyaar"
 title: "Why math still exists"
 date: 2024-02-18
 draft: false
