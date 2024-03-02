@@ -6,7 +6,7 @@ draft: false
 ShowToc: true
 ---
 ## Intro
-In times of using *arrays*, where inserting or deleting elements in the middle often requires shifting subsequent elements, when lists grow in size this tasks become expensive exponentially. And traversing over these huge lists make CPUs scream, [top](https://www.man7.org/linux/man-pages/man1/top.1.html) proves.
+In times of using *arrays*, where inserting or deleting elements in the middle often requires shifting subsequent elements, when lists grow in size this tasks exponentially become expensive. And traversing over these huge lists make CPUs scream, [top](https://www.man7.org/linux/man-pages/man1/top.1.html) proves.
 
 But no worries, it's also possible to traverse from end of the list to the very first node, thus accessing nodes placed in end parts of the list becomes much cheaper. For this we should remember the path to the previous node and all the way back home; In more technical terms we need to create a **doubly linked list** and we'll see how, implemented in **Java**.
 
