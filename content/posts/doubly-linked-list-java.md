@@ -6,7 +6,7 @@ draft: false
 ShowToc: true
 ---
 ## Intro
-In many cases we have to deal with super long lists containing all kinds of objects either cars or car parts. And when we have to access one of this nodes over and over, starting from beginning of the list and traverse the list until finding the node we're looking for, you can see the pain in face of the CPU if you take a look at poor thing using [top](https://www.man7.org/linux/man-pages/man1/top.1.html). 
+In times of using *arrays*, where inserting or deleting elements in the middle often requires shifting subsequent elements, when lists grow in size this tasks become expensive exponentially. And traversing over these huge lists make CPUs scream, [top](https://www.man7.org/linux/man-pages/man1/top.1.html) proves.
 
 But no worries, it's also possible to traverse from end of the list to the very first node, thus accessing nodes placed in end parts of the list becomes much cheaper. For this we should remember the path to the previous node and all the way back home; In more technical terms we need to create a **doubly linked list** and we'll see how, implemented in **Java**.
 
