@@ -8,10 +8,10 @@ ShowToc: true
 ## Intro
 In times of using *arrays*, where inserting or deleting elements in the middle often requires shifting subsequent elements, when lists grow in size this tasks exponentially become expensive. And traversing over these huge lists make CPUs scream, [top](https://www.man7.org/linux/man-pages/man1/top.1.html) proves.
 
-But no worries, it's also possible to traverse from end of the list to the very first node, thus accessing nodes placed in end parts of the list becomes much cheaper. For this we should remember the path to the previous node and all the way back home; In more technical terms we need to create a **doubly linked list** and we'll see how, implemented in **Java**.
+But no worries, it's also possible to traverse from end of the list to the very first node, thus accessing nodes placed in end parts of the list becomes much cheaper. For this we should remember the path to the previous node and all the way back home; In more technical terms we need to create a **doubly linked list**, and we'll see how it's implemented in **Java**.
 
 ## Linked list
-In general a linked list is dynamic a arrangement which all of its elements/nodes has a reference to the next element.
+In general a linked list is dynamic an arrangement which all of its elements/nodes has a reference to the next element.
 This way every element is accessible through the previous element which has a pointer attached to next one and this way each element can be stored at any block of heap memory and allocating a specific block of storage isn't necessary anymore.
 ### Being upon such structure, has some benefits:
 - **Dynamic data structure:** there is no need to give a linked list an initialized size because it can shrink and grow during run time freely. 
@@ -27,7 +27,7 @@ Linked lists and doubly linked lists have more similarities than differences. As
 ![Diagram of a doubly linked list](/doubly-link-list.png)
 
 
-Though there are downsides to related to having an extra link, e.g. More memory and storage consumption, complexity and insertion/deletion overhead.
+Though there are downsides to related to having an extra link, e.g., More memory and storage consumption, complexity and insertion/deletion overhead.
 In these article we'll explore how to create a DLL and implement some necessary methods in Java:
 - **addHead():** inserting an element to the beginning of the list.
 - **addTail():** inserting an element to the end of the list.
@@ -80,7 +80,7 @@ public class DoublyLinkedList<T> {
 ```
 
 ## Implementing methods
-Now it's time to add methods to the `DoublyLinkedList` class; this methods will be non-static and related to each instance of the class.
+Now it's time to add methods to the `DoublyLinkedList` class; these methods will be non-static and related to each instance of the class.
 ### addHead()
 This method will simply get *data* as parameter and adds it to the beginning of the list, so it becomes head, or first element of list.
 ```java
@@ -99,7 +99,7 @@ public void addHead(T data){
     }
 }
 ```
-This method checks if the list is empty it will create the first element of the list and updates 'head' and 'tail' references; if not, it will update references for `head` and put the previous head as second element.
+This method checks if the list is empty it will create the first element of the list and updates `head` and `tail` references; if not, it will update references for `head` and put the previous head as second element.
 ### addTail()
 This method will simply get *data* as parameter and adds it to the end of the list, so it becomes tail, or last element of list.
 ```java

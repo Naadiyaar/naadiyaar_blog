@@ -6,7 +6,7 @@ draft: false
 ShowToc: true
 ---
 ___
-This post is not creative writing, i'm only translating content from Persian, if you know Persian please consider
+This post is not creative writing, I'm only translating content from Persian, if you know Persian please consider
 reading the [original post.](https://gnu.rocks/2020/online-conference/)
 
 While performing a meeting in a physical space has its own benefits, sometimes we have no choice but to run the 
