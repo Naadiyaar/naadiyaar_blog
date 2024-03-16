@@ -54,4 +54,5 @@ continues until the end of the conference.
 *No disadvantages have been found for this holding model yet.*
 
 
-**Thanks for reading; please let me know what do you think; good luck.**
+**Thanks for reading; please let me know what do you think.  
+Good luck.**

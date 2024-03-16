@@ -53,4 +53,5 @@ Possibility of doing more here boosts our productivity helps us focus on the wor
 For reasons specified above, I'd like to use command line applications over graphical ones because that's how I like to treat my computer.
 Even though I didn't talk about TUIs (Terminal User interface) here, they still inherit many of the above advantages and give same feeling of a CLI.
 
-**Thanks for reading; please let me know what do you think; good luck.**
+**Thanks for reading; please let me know what do you think.
+Good luck.**

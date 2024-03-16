@@ -54,4 +54,5 @@ This world feeds from our mistakes. Some mistakes are so dangerous can end up in
 What is important is to reduce how much we censor ourselves. Expressing an unpopular idea isn't necessarily bad and must happen time to time, but your brain can't handle this.
 And for me writing in English was a way to control this to be able to say what I want free of myself.
 
-**Thanks for reading; please let me know what do you think; good luck.**
+**Thanks for reading; please let me know what do you think.
+Good luck.**

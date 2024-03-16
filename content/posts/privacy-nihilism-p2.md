@@ -24,4 +24,5 @@ I'm not going to talk about this anymore because *Evan Selinger* already wrote a
 You can also take action, learn and teach. Nothing can help you with privacy nihilism better than feeling of actively fighting privacy invaders.
 Learn how to protect yourself and others by contents provided by EFF (Electronic Frontier Foundation) at [this address](https://ssd.eff.org/).
 
-**Thanks for reading; please let me know what do you think; good luck.**
+**Thanks for reading; please let me know what do you think.
+Good luck.**

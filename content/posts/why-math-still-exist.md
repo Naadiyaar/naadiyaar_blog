@@ -29,4 +29,5 @@ By the way the answer to the riddle is *rorriM*.
 
 Sorry for not mentioning your favorite mathematician :)
 
-**Thanks for reading; please let me know what do you think; good luck.**
+**Thanks for reading; please let me know what do you think.
+Good luck.**

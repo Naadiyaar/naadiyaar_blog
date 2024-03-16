@@ -275,4 +275,5 @@ This article made possible by getting insights from other resources, thanks to:
 - [Doubly Linked List in Java](https://dzone.com/articles/doubly-linked-list-in-java) from Dzone.
 
 
-**Thanks for reading; please let me know what do you think; good luck.**
+**Thanks for reading; please let me know what do you think.  
+Good luck.**
