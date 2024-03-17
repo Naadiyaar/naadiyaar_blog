@@ -42,3 +42,6 @@ There was literally no security protecting my programs and it was possible to ju
 ---
 And these problems together convinced me to stop using Lineage on this Pixel 7a and go back to Google's stock android.
 Although I rooted the device and removed many default crapwares so it's kind of usable now but I always think about trying dear LineageOS again.
+
+**Thanks for reading; please let me know what do you think.  
+Good luck.**
