@@ -54,5 +54,5 @@ They make you feel privacy doesn't make sense, and it's meaningless, you are mea
 There's a [part 2]({{<ref "/content/posts/privacy-nihilism-p2.md">}})
 
 
-**Thanks for reading; please let me know what do you think.
+**Thanks for reading; please let me know what do you think.  
 Good luck.**
