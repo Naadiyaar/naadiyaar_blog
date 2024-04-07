@@ -5,40 +5,44 @@ theme: PaperMod
 paginate: 25
 
 params:
-    homeInfoParams:
-        Title: Welcome to my cyber sanctuary
-        Content: >
-          I find great delight in expressing my thoughts through writing.
+  homeInfoParams:
+    Title: Welcome to my cyber sanctuary
+    Content: >
+      I find great delight in expressing my thoughts through writing.
 
-          - In the grand tapestry of life, we all stumble and falter, including me and the posts I share.
+      - In the grand tapestry of life, we all stumble and falter, including me and the posts I share.
 
-          - Journaling my technical life and exploring simple ideas is what I'm doing here.
-          
-          - **hope you enjoy :)**
+      - Journaling my technical life and exploring simple ideas is what I'm doing here.
 
-    socialIcons:
-      - name: email
-        url: mailto:naadiyaar@protonmail.com
+      - **hope you enjoy :)**
+
+  socialIcons:
+    - name: email
+      url: mailto:naadiyaar@protonmail.com
       # - name: xmpp
       #   url: xmpp:naadiyaar@conversations.im
-      - name: matrix
-        url: https://matrix.to/#/@naadiyaar:fedora.im
-      - name: mastodon
-        url: https://antabaka.me/@Naadiyaar
-      - name: codeberg
-        url: https://codeberg.org/Naadiyaar
-      - name: rss
-        url: http://naadiyaar.com/index.xml
+    - name: matrix
+      url: https://matrix.to/#/@naadiyaar:fedora.im
+    - name: mastodon
+      url: https://antabaka.me/@Naadiyaar
+    - name: codeberg
+      url: https://codeberg.org/Naadiyaar
+    - name: rss
+      url: http://naadiyaar.com/index.xml
 
-    ShowCodeCopyButtons: true
+  ShowCodeCopyButtons: true
 
+# sectionPagesMenu: main
 menu:
   main:
-    - name: Archive
-      url: archives/
-      weight: 5
+    # - name: Archive
+    #   url: archives/
+    #   weight: 7
+    - name: About
+      url: about/
+      weight: 6
 outputs:
   home:
-      - HTML
-      - RSS
-      - JSON
+    - HTML
+    - RSS
+    - JSON
