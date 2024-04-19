@@ -2,7 +2,7 @@
 author: "Naadiyaar"
 title: "First day of gym, Brrr"
 date: 2024-04-03
-draft: false
+draft: true
 ShowToc: false
 ---
 If there is only one thing I regret for when thinking about past 5 months, it's living a potato style life.
