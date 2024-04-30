@@ -1,6 +1,5 @@
 ---
 author: "Naadiyaar"
-menus: main
 title: "About"
 ---
 Hello, this is *Naadiyaar* /nʌdɪər/ :)  
