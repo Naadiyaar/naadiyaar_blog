@@ -3,9 +3,9 @@ author: "Naadiyaar"
 menus: main
 title: "About"
 ---
-Hello, this is Naadiyaar :)  
+Hello, this is *Naadiyaar* /nʌdɪər/ :)  
 I'm a 20 years old computer science student from Iran.  
-Despite being introverted and sometimes even shy, I love communicating with other people and talk about what they like! 
+Despite being introverted and sometimes even shy, I love communicating with other people (online) and talk about what we like common and always appreciate new ideas and standpoints. 
 Though I spend most of my time watching anime, reading/writing blogs and being adventures with computers and internet.  
 I've been writing code for quite some time now but currently I'm mostly attracted to the JVM (Java Virtual Machine) and enjoy learning about it.
 
