@@ -1,6 +1,6 @@
-baseURL: "https://naadiyaar.com/"
+baseURL: "https://nadiyar.com/"
 languageCode: 'en-us'
-title: 'Naadiyaar'
+title: 'Nadiyar'
 theme: PaperMod
 paginate: 25
 
@@ -28,7 +28,7 @@ params:
     - name: codeberg
       url: https://codeberg.org/Naadiyaar
     - name: rss
-      url: http://naadiyaar.com/index.xml
+      url: http://nadiyar.com/index.xml
 
   ShowCodeCopyButtons: true
 
