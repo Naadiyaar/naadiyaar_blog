@@ -2,7 +2,7 @@
 author: "Naadiyaar"
 title: "About"
 ---
-Hello, this is *Naadiyaar* /nʌdɪər/ :)  
+Hello, this is *Nadiyar* /nʌdɪər/ :)  
 I'm a 20 years old computer science student from Iran.  
 Despite being introverted and sometimes even shy, I love communicating with other people (online) and talk about what we like common and always appreciate new ideas and standpoints. 
 Though I spend most of my time watching anime, reading/writing blogs and being adventures with computers and internet.  
