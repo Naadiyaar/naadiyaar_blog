@@ -1,6 +1,6 @@
 ---
 author: "Nadiyar"
-title: "Website Domain Is Changed"
+title: "Website Domain Changed"
 date: 2024-06-06
 draft: false
 ShowToc: true
