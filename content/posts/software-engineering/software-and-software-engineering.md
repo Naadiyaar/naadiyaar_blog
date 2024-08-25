@@ -127,3 +127,9 @@ reusable parts decreases expenses and overhead for future people but increases t
 ## How it all starts
 Every software project exitst to serve a need.  
 Need to adapt a legacy system, need to deliver a new feature, need to change business environment and etc.
+
+---
+Book's Table of Contents: [TOC]({{<ref "/content/posts/software-engineering/toc.md">}})
+
+**Thanks for reading; please let me know what do you think.  
+Good luck.**
