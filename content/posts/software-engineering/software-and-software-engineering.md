@@ -1,5 +1,5 @@
 ---
-author: "Naadiyaar"
+author: "Nadiyar"
 title: "Chapter 1: Software And Software Engineering"
 date: 2024-08-25
 draft: false
@@ -72,7 +72,7 @@ Helps us better understand the problem and find solutions.
 Build what you modeled. It involves both generating and testing code.
 
 - **Deployment**  
-Software as an entity, must be delivred to customer and receive feedback.
+Software as an entity, must be delivered to customer and receive feedback.
 
 These can be used for any kind of software project.
 These activities repeats and each complete repeat produces a *software increment*.
