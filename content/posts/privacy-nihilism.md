@@ -1,5 +1,5 @@
 ---
-author: "Naadiyaar"
+author: "Nadiyar"
 title: "Privacy nihilism"
 date: 2024-02-25
 draft: false
